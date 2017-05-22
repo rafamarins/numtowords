@@ -1,0 +1,18 @@
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord.Test\bin\Debug\Application.NumToWord.Test.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord.Test\bin\Debug\Application.NumToWord.Test.pdb
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord.Test\obj\Debug\NumToWord.Application.Test.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord.Test\obj\Debug\Application.NumToWord.Test.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord.Test\obj\Debug\Application.NumToWord.Test.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Application.NumToWord.Test.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Application.NumToWord.Test.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Application.NumToWord.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Infrastructure.NumToWord.Data.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\NLog.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Application.NumToWord.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\Infrastructure.NumToWord.Data.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\bin\Debug\NLog.xml
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\obj\Debug\NumToWord.Application.Test.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\obj\Debug\Application.NumToWord.Test.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord.Test\obj\Debug\Application.NumToWord.Test.pdb

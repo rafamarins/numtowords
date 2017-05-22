@@ -1,0 +1,10 @@
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\Infrastructure.NumToWord.Data.dll.config
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\Infrastructure.NumToWord.Data.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\Infrastructure.NumToWord.Data.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\NLog.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\bin\Release\NLog.xml
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\obj\Release\NumToWord.Infrastructure.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\obj\Release\Infrastructure.NumToWord.Data.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Infrastructure.NumToWord.Data\obj\Release\Infrastructure.NumToWord.Data.pdb

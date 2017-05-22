@@ -1,0 +1,22 @@
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Application.NumToWord.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Application.NumToWord.pdb
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Infrastructure.NumToWord.Data.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\NLog.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\Infrastructure.NumToWord.Data.pdb
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\bin\Debug\NLog.xml
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\obj\Debug\NumToWord.Application.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\obj\Debug\Application.NumToWord.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Application.NumToWord\obj\Debug\Application.NumToWord.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Application.NumToWord.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Application.NumToWord.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Infrastructure.NumToWord.Data.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\NLog.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\Infrastructure.NumToWord.Data.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\bin\Debug\NLog.xml
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\obj\Debug\NumToWord.Application.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\obj\Debug\Application.NumToWord.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Application.NumToWord\obj\Debug\Application.NumToWord.pdb

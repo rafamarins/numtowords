@@ -1,0 +1,16 @@
+﻿@model NumToWord.Presentation.Models.WordModel
+@{
+    ViewBag.Title = "Number to Words";
+}
+
+<div class="contentItems">
+       <form>
+           <div class="start">
+               @Html.TextBoxFor(m => m.Input.Number,new { @id = "input-value",@name="inputValue",@placeholder="$" })
+               <input type="submit" id="input-submit" value="Convert">
+           </div>
+           <div class="result">
+               <span class="word"></span>
+           </div>
+        </form>        
+</div>

@@ -1,0 +1,3 @@
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\Presentation.Assignment1.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\MvcMusicStore.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\MvcMusicStore.pdb

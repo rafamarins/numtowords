@@ -1,0 +1,4 @@
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\bin\Release\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\bin\Release\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\obj\Release\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\obj\Release\Domain.Assignement1.pdb

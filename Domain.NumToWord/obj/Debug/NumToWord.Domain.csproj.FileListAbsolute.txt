@@ -1,0 +1,9 @@
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Domain.NumToWord\bin\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Domain.NumToWord\bin\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Domain.NumToWord\obj\Debug\NumToWord.Domain.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Domain.NumToWord\obj\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\Assignment 1\Domain.NumToWord\obj\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\bin\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\bin\Debug\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\obj\Debug\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Programming\C#\NumToWord\Domain.NumToWord\obj\Debug\Domain.Assignement1.pdb

@@ -1,0 +1,13 @@
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.dll
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\MvcMusicStore.pdb
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.dll
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\bin\EntityFramework.xml
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.dll
+C:\Users\Rafael\Downloads\MvcMusicStore-v3.0\MvcMusicStore-v3.0\MvcMusicStore-Completed\MvcMusicStore\obj\Debug\MvcMusicStore.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\bin\MvcMusicStore.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\bin\MvcMusicStore.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\bin\EntityFramework.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\bin\EntityFramework.xml
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\MvcMusicStore.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\MvcMusicStore.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Assignment1\obj\Debug\Assignment1.csprojResolveAssemblyReference.cache

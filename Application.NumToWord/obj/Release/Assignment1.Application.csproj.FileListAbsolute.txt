@@ -1,0 +1,11 @@
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Application.Assignment1.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Application.Assignment1.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Domain.Assignement1.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Infrastructure.Assignment1.Data.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\NLog.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Domain.Assignement1.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\Infrastructure.Assignment1.Data.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\bin\Release\NLog.xml
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\obj\Release\Assignment1.Application.csprojResolveAssemblyReference.cache
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\obj\Release\Application.Assignment1.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1\obj\Release\Application.Assignment1.pdb

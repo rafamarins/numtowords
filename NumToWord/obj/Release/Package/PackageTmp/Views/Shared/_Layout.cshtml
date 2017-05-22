@@ -1,0 +1,41 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1 minimum-scale=1">
+<meta name="fragment" content="!">
+    
+<meta name="description" content="">
+<meta name="keywords" content="">
+<meta name="author" content="Rafael Marins">
+<title>@ViewBag.Title</title>
+<link href="@Url.Content("~/Content/style.css")" rel="stylesheet" 
+        type="text/css" />
+<link href="@Url.Content("~/Content/YTPlayer.css")" rel="stylesheet" 
+        type="text/css" />
+<link href="@Url.Content("~/Content/fa/css/font-awesome.min.css")" rel="stylesheet" 
+        type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script type="text/javascript" src="scripts/jquery.mb.YTPlayer.js"></script>
+<script type="text/javascript" src="scripts/videoLoader.js"></script>
+<script src="scripts/Global.js" type="application/javascript"></script>
+</head>
+<body>
+<div id="main" class="mainContent">
+<a id="ut-background-video" class="ut-video-player mb_YTVPlayer isMuted" data-property="{ videoURL:'https://www.youtube.com/watch?v=bj5ufMLKYhk',containment:'body',autoPlay:true,mute:false,vol:0,startAt:8, opacity:1,loop:true}" title="" style="display: none; position: relative; background-image: none;"></a>
+<section id="sec1">
+    @RenderBody()
+</section>
+</div>
+<div id="footer">
+<a href="#sec1" class="toTop"><i class="fa fa-angle-double-up"></i></a>
+<menu id="last-menu">
+<ul>
+<li class="mt2"><a href="https://www.facebook.com/Rafael.MarinsS" target="_blank" class="social-icons facebook"></a></li>
+<li class="mt2"><a href="https://nz.linkedin.com/pub/rafael-marins/51/204/25b" target="_blank" class="social-icons linkedin"></a></li>
+</ul>
+</menu>
+</div>
+</body>
+<script type="text/javascript" src="scripts/validate.js"></script>
+</html>

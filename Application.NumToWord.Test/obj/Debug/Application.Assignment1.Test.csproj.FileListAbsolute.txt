@@ -1,0 +1,4 @@
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1.Test\bin\Debug\Application.Assignment1.Test.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1.Test\bin\Debug\Application.Assignment1.Test.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1.Test\obj\Debug\Application.Assignment1.Test.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Application.Assignment1.Test\obj\Debug\Application.Assignment1.Test.pdb

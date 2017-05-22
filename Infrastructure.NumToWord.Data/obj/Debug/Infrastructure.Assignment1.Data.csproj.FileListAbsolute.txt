@@ -1,0 +1,4 @@
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Infrastructure.Assignment1.Data\bin\Debug\Infrastructure.Assignment1.Data.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Infrastructure.Assignment1.Data\bin\Debug\Infrastructure.Assignment1.Data.pdb
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Infrastructure.Assignment1.Data\obj\Debug\Infrastructure.Assignment1.Data.dll
+C:\Users\Rafael\Downloads\Unitec\Semester 2\2 - Monday - Evening\Assignment 1\Infrastructure.Assignment1.Data\obj\Debug\Infrastructure.Assignment1.Data.pdb
